@@ -6,3 +6,4 @@ About the project:-
 -    Fetch Movies and Tv Show
 -    Search for Actors and Movies
 -    Watch Trailers
+-    Fully Responsive
